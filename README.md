@@ -1,0 +1,1 @@
+# crypto-frenshies-whitelist
